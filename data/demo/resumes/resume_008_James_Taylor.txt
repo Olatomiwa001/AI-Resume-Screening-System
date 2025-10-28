@@ -1,0 +1,42 @@
+James Taylor
+Email: james.taylor@email.com | Phone: +1-647-793-5476
+LinkedIn: linkedin.com/in/james-taylor
+
+PROFESSIONAL SUMMARY
+Experienced data_science professional with 9+ years of expertise in developing robust software solutions.
+
+SKILLS
+SQL, TensorFlow, PyTorch, NumPy, Spark, Pandas, Deep Learning, R, scikit-learn, Machine Learning, Python, Tableau
+
+WORK EXPERIENCE
+
+Data Analyst at CodeCraft
+2021 - Present
+• Collaborated with engineering teams to integrate ML solutions
+• Deployed models to production with 95% accuracy
+• Analyzed large datasets to derive actionable insights
+• Built machine learning models using TensorFlow
+
+Data Analyst at CloudSolutions
+2017 - 2021
+• Collaborated with engineering teams to integrate ML solutions
+• Created data visualizations and dashboards for stakeholders
+• Analyzed large datasets to derive actionable insights
+• Deployed models to production with 95% accuracy
+
+AI Research Scientist at DataSystems Inc
+2013 - Present
+• Collaborated with engineering teams to integrate ML solutions
+• Analyzed large datasets to derive actionable insights
+• Built machine learning models using NumPy
+• Deployed models to production with 95% accuracy
+
+
+EDUCATION
+
+Master of Science in Computer Science
+UC Berkeley, 2016
+
+CERTIFICATIONS
+• Google Professional Data Engineer
+• TensorFlow Developer Certificate

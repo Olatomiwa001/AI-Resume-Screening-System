@@ -1,0 +1,49 @@
+Thomas Williams
+Email: thomas.williams@email.com | Phone: +1-693-712-4743
+LinkedIn: linkedin.com/in/thomas-williams
+
+PROFESSIONAL SUMMARY
+Results-driven frontend specialist with 13 years of experience in building scalable applications.
+
+SKILLS
+Webpack, JavaScript, CSS, React, HTML, Redux, Vue.js
+
+WORK EXPERIENCE
+
+UI/UX Engineer at WebDynamics
+2021 - Present
+• Optimized frontend performance and accessibility
+• Built reusable component libraries
+• Collaborated with designers and backend engineers
+• Developed responsive web applications using Redux
+
+Frontend Architect at TechCorp
+2017 - 2021
+• Developed responsive web applications using Vue.js
+• Optimized frontend performance and accessibility
+• Built reusable component libraries
+• Implemented pixel-perfect UI designs
+
+UI/UX Engineer at CloudSolutions
+2014 - 2017
+• Collaborated with designers and backend engineers
+• Built reusable component libraries
+• Implemented pixel-perfect UI designs
+• Developed responsive web applications using JavaScript
+
+Frontend Architect at TechCorp
+2012 - Present
+• Collaborated with designers and backend engineers
+• Developed responsive web applications using Redux
+• Built reusable component libraries
+• Optimized frontend performance and accessibility
+
+
+EDUCATION
+
+BS in Software Engineering
+University of Washington, 2009
+
+CERTIFICATIONS
+• W3C Certified Frontend Developer
+• Google Mobile Web Specialist

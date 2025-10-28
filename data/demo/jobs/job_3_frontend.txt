@@ -1,0 +1,21 @@
+Frontend Developer
+
+Join our team as a Frontend Developer with 3+ years of experience 
+building modern web applications.
+
+Requirements:
+- 3+ years of frontend development experience
+- Expert knowledge of JavaScript, HTML, and CSS
+- Strong experience with React, Angular, or Vue.js
+- Understanding of responsive design and cross-browser compatibility
+- Experience with state management (Redux, MobX)
+- Knowledge of build tools (Webpack, Babel)
+- Bachelor's degree in Computer Science or related field
+
+Nice to have:
+- TypeScript experience
+- UI/UX design skills
+- Experience with Next.js or Gatsby
+- Knowledge of accessibility standards
+
+Key Skills: JavaScript, React, TypeScript, HTML, CSS, Redux, Responsive Design

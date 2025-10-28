@@ -1,0 +1,42 @@
+Robert Martinez
+Email: robert.martinez@email.com | Phone: +1-652-604-9125
+LinkedIn: linkedin.com/in/robert-martinez
+
+PROFESSIONAL SUMMARY
+Accomplished devops engineer with 10+ years of hands-on experience in modern technologies.
+
+SKILLS
+Python, Jenkins, AWS, Ansible, Linux, Terraform, Docker, Azure
+
+WORK EXPERIENCE
+
+Site Reliability Engineer at AI Innovations
+2021 - Present
+• Implemented CI/CD pipelines using Jenkins and Docker
+• Monitored system performance and ensured 99.9% uptime
+• Implemented infrastructure as code using Terraform
+• Automated deployment processes and reduced deployment time by 50%
+
+Cloud Engineer at WebDynamics
+2017 - 2021
+• Monitored system performance and ensured 99.9% uptime
+• Automated deployment processes and reduced deployment time by 50%
+• Implemented infrastructure as code using Terraform
+• Managed cloud infrastructure on Azure
+
+Platform Engineer at TechCorp
+2015 - Present
+• Implemented CI/CD pipelines using Jenkins and Docker
+• Automated deployment processes and reduced deployment time by 50%
+• Managed cloud infrastructure on AWS
+• Monitored system performance and ensured 99.9% uptime
+
+
+EDUCATION
+
+Bachelor of Engineering
+Cornell University, 2012
+
+CERTIFICATIONS
+• AWS Certified DevOps Engineer
+• Docker Certified Associate

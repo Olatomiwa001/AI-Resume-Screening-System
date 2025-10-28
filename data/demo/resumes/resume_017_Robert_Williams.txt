@@ -1,0 +1,56 @@
+Robert Williams
+Email: robert.williams@email.com | Phone: +1-278-676-8203
+LinkedIn: linkedin.com/in/robert-williams
+
+PROFESSIONAL SUMMARY
+Results-driven frontend specialist with 14 years of experience in building scalable applications.
+
+SKILLS
+React, Redux, HTML, Angular, Vue.js, CSS, TypeScript, Webpack, JavaScript, Material-UI
+
+WORK EXPERIENCE
+
+Frontend Architect at DataSystems Inc
+2023 - Present
+• Built reusable component libraries
+• Developed responsive web applications using HTML
+• Implemented pixel-perfect UI designs
+• Optimized frontend performance and accessibility
+
+UI/UX Engineer at SmartTech
+2020 - 2023
+• Built reusable component libraries
+• Implemented pixel-perfect UI designs
+• Collaborated with designers and backend engineers
+• Developed responsive web applications using React
+
+React Developer at AI Innovations
+2017 - 2020
+• Built reusable component libraries
+• Implemented pixel-perfect UI designs
+• Collaborated with designers and backend engineers
+• Developed responsive web applications using JavaScript
+
+Frontend Architect at CloudSolutions
+2013 - 2017
+• Built reusable component libraries
+• Collaborated with designers and backend engineers
+• Developed responsive web applications using React
+• Implemented pixel-perfect UI designs
+
+React Developer at CodeCraft
+2009 - Present
+• Developed responsive web applications using HTML
+• Optimized frontend performance and accessibility
+• Collaborated with designers and backend engineers
+• Built reusable component libraries
+
+
+EDUCATION
+
+BS in Information Technology
+UC Berkeley, 2011
+
+CERTIFICATIONS
+• W3C Certified Frontend Developer
+• Google Mobile Web Specialist

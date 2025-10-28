@@ -1,0 +1,35 @@
+James Taylor
+Email: james.taylor@email.com | Phone: +1-514-310-6511
+LinkedIn: linkedin.com/in/james-taylor
+
+PROFESSIONAL SUMMARY
+Accomplished devops engineer with 6+ years of hands-on experience in modern technologies.
+
+SKILLS
+Jenkins, Ansible, Bash, Terraform, Kubernetes
+
+WORK EXPERIENCE
+
+Cloud Engineer at WebDynamics
+2021 - Present
+• Implemented CI/CD pipelines using Jenkins and Docker
+• Automated deployment processes and reduced deployment time by 50%
+• Monitored system performance and ensured 99.9% uptime
+• Managed cloud infrastructure on GCP
+
+Platform Engineer at InfoSystems
+2019 - Present
+• Implemented CI/CD pipelines using Jenkins and Docker
+• Monitored system performance and ensured 99.9% uptime
+• Automated deployment processes and reduced deployment time by 50%
+• Implemented infrastructure as code using Terraform
+
+
+EDUCATION
+
+BS in Software Engineering
+Stanford University, 2017
+
+CERTIFICATIONS
+• Kubernetes Administrator (CKA)
+• AWS Certified DevOps Engineer

@@ -1,0 +1,35 @@
+Jane Smith
+Email: jane.smith@email.com | Phone: +1-353-236-2411
+LinkedIn: linkedin.com/in/jane-smith
+
+PROFESSIONAL SUMMARY
+Results-driven frontend specialist with 7 years of experience in building scalable applications.
+
+SKILLS
+JavaScript, CSS, Redux, Angular, Material-UI, HTML, React, Vue.js, Webpack, TypeScript
+
+WORK EXPERIENCE
+
+Web Developer at TechCorp
+2022 - Present
+• Collaborated with designers and backend engineers
+• Developed responsive web applications using HTML
+• Optimized frontend performance and accessibility
+• Built reusable component libraries
+
+React Developer at SmartTech
+2018 - Present
+• Built reusable component libraries
+• Developed responsive web applications using Vue.js
+• Collaborated with designers and backend engineers
+• Implemented pixel-perfect UI designs
+
+
+EDUCATION
+
+PhD in Machine Learning
+University of Washington, 2018
+
+CERTIFICATIONS
+• Google Mobile Web Specialist
+• W3C Certified Frontend Developer

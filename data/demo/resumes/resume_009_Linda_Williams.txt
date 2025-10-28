@@ -1,0 +1,42 @@
+Linda Williams
+Email: linda.williams@email.com | Phone: +1-662-947-5483
+LinkedIn: linkedin.com/in/linda-williams
+
+PROFESSIONAL SUMMARY
+Results-driven devops specialist with 9 years of experience in building scalable applications.
+
+SKILLS
+Jenkins, Terraform, Python, Azure, Bash, Ansible, AWS, Docker
+
+WORK EXPERIENCE
+
+Infrastructure Engineer at InfoSystems
+2021 - Present
+• Managed cloud infrastructure on Azure
+• Implemented CI/CD pipelines using Jenkins and Docker
+• Monitored system performance and ensured 99.9% uptime
+• Automated deployment processes and reduced deployment time by 50%
+
+DevOps Engineer at DataSystems Inc
+2019 - 2021
+• Implemented CI/CD pipelines using Jenkins and Docker
+• Automated deployment processes and reduced deployment time by 50%
+• Monitored system performance and ensured 99.9% uptime
+• Implemented infrastructure as code using Terraform
+
+Cloud Engineer at AI Innovations
+2015 - Present
+• Managed cloud infrastructure on AWS
+• Implemented CI/CD pipelines using Jenkins and Docker
+• Implemented infrastructure as code using Terraform
+• Monitored system performance and ensured 99.9% uptime
+
+
+EDUCATION
+
+MS in Artificial Intelligence
+Cornell University, 2012
+
+CERTIFICATIONS
+• Docker Certified Associate
+• AWS Certified DevOps Engineer

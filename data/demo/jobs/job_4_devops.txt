@@ -1,0 +1,21 @@
+DevOps Engineer
+
+Seeking a skilled DevOps Engineer with 3+ years to manage our 
+infrastructure and deployment pipelines.
+
+Requirements:
+- 3+ years of DevOps or system administration experience
+- Strong experience with AWS, Azure, or GCP
+- Proficiency in Docker and Kubernetes
+- Experience with CI/CD tools (Jenkins, GitLab CI, CircleCI)
+- Knowledge of infrastructure as code (Terraform, Ansible)
+- Strong scripting skills (Bash, Python)
+- Bachelor's degree in Computer Science or related field
+
+Nice to have:
+- Kubernetes certifications (CKA, CKAD)
+- Experience with monitoring tools (Prometheus, Grafana)
+- Knowledge of security best practices
+- Experience with service mesh technologies
+
+Key Skills: AWS, Docker, Kubernetes, Jenkins, Terraform, Python, Linux, CI/CD

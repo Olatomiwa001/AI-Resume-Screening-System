@@ -1,0 +1,56 @@
+Linda Brown
+Email: linda.brown@email.com | Phone: +1-923-958-2381
+LinkedIn: linkedin.com/in/linda-brown
+
+PROFESSIONAL SUMMARY
+Accomplished software engineer with 10+ years of hands-on experience in modern technologies.
+
+SKILLS
+Git, Java, SQL, C++, AWS, Kubernetes, Flask, Node.js, Django, JavaScript, Python, React
+
+WORK EXPERIENCE
+
+Backend Developer at DataSystems Inc
+2022 - Present
+• Mentored junior developers and conducted code reviews
+• Optimized application performance and reduced latency by 30%
+• Implemented automated testing and CI/CD pipelines
+• Collaborated with cross-functional teams to deliver features
+
+Full Stack Engineer at TechCorp
+2020 - 2022
+• Developed and maintained applications using JavaScript
+• Mentored junior developers and conducted code reviews
+• Optimized application performance and reduced latency by 30%
+• Implemented automated testing and CI/CD pipelines
+
+Full Stack Engineer at TechCorp
+2018 - 2020
+• Mentored junior developers and conducted code reviews
+• Optimized application performance and reduced latency by 30%
+• Implemented automated testing and CI/CD pipelines
+• Developed and maintained applications using C++
+
+Full Stack Engineer at SmartTech
+2016 - 2018
+• Collaborated with cross-functional teams to deliver features
+• Implemented automated testing and CI/CD pipelines
+• Mentored junior developers and conducted code reviews
+• Optimized application performance and reduced latency by 30%
+
+Backend Developer at SmartTech
+2014 - Present
+• Collaborated with cross-functional teams to deliver features
+• Developed and maintained applications using SQL
+• Optimized application performance and reduced latency by 30%
+• Mentored junior developers and conducted code reviews
+
+
+EDUCATION
+
+MS in Artificial Intelligence
+University of Washington, 2014
+
+CERTIFICATIONS
+• AWS Certified Developer
+• Microsoft Certified: Azure Developer

@@ -1,0 +1,56 @@
+Emily Martinez
+Email: emily.martinez@email.com | Phone: +1-339-704-8481
+LinkedIn: linkedin.com/in/emily-martinez
+
+PROFESSIONAL SUMMARY
+Results-driven data_science specialist with 13 years of experience in building scalable applications.
+
+SKILLS
+R, PyTorch, NumPy, TensorFlow, Tableau, scikit-learn, Python, SQL, Machine Learning, Deep Learning, Spark
+
+WORK EXPERIENCE
+
+Machine Learning Engineer at CloudSolutions
+2023 - Present
+• Deployed models to production with 95% accuracy
+• Analyzed large datasets to derive actionable insights
+• Created data visualizations and dashboards for stakeholders
+• Built machine learning models using Tableau
+
+Senior Data Scientist at SmartTech
+2020 - 2023
+• Collaborated with engineering teams to integrate ML solutions
+• Analyzed large datasets to derive actionable insights
+• Deployed models to production with 95% accuracy
+• Built machine learning models using Machine Learning
+
+Data Scientist at SmartTech
+2018 - 2020
+• Collaborated with engineering teams to integrate ML solutions
+• Deployed models to production with 95% accuracy
+• Created data visualizations and dashboards for stakeholders
+• Built machine learning models using R
+
+Data Scientist at DataSystems Inc
+2014 - 2018
+• Built machine learning models using scikit-learn
+• Created data visualizations and dashboards for stakeholders
+• Collaborated with engineering teams to integrate ML solutions
+• Analyzed large datasets to derive actionable insights
+
+Data Scientist at SmartTech
+2010 - Present
+• Analyzed large datasets to derive actionable insights
+• Collaborated with engineering teams to integrate ML solutions
+• Created data visualizations and dashboards for stakeholders
+• Built machine learning models using PyTorch
+
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+Carnegie Mellon, 2010
+
+CERTIFICATIONS
+• Google Professional Data Engineer
+• TensorFlow Developer Certificate

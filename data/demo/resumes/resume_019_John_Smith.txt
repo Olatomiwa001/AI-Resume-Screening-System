@@ -1,0 +1,28 @@
+John Smith
+Email: john.smith@email.com | Phone: +1-889-803-6551
+LinkedIn: linkedin.com/in/john-smith
+
+PROFESSIONAL SUMMARY
+Accomplished frontend engineer with 1+ years of hands-on experience in modern technologies.
+
+SKILLS
+CSS, React, TypeScript, Vue.js, Material-UI
+
+WORK EXPERIENCE
+
+Frontend Architect at CodeCraft
+2021 - Present
+• Developed responsive web applications using CSS
+• Implemented pixel-perfect UI designs
+• Optimized frontend performance and accessibility
+• Built reusable component libraries
+
+
+EDUCATION
+
+MS in Artificial Intelligence
+Stanford University, 2022
+
+CERTIFICATIONS
+• W3C Certified Frontend Developer
+• Google Mobile Web Specialist

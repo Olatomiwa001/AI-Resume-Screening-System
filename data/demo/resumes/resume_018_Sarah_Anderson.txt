@@ -1,0 +1,28 @@
+Sarah Anderson
+Email: sarah.anderson@email.com | Phone: +1-803-818-1590
+LinkedIn: linkedin.com/in/sarah-anderson
+
+PROFESSIONAL SUMMARY
+Accomplished frontend engineer with 3+ years of hands-on experience in modern technologies.
+
+SKILLS
+TypeScript, React, Vue.js, Angular, Material-UI
+
+WORK EXPERIENCE
+
+Frontend Developer at AI Innovations
+2021 - Present
+• Collaborated with designers and backend engineers
+• Implemented pixel-perfect UI designs
+• Optimized frontend performance and accessibility
+• Built reusable component libraries
+
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+University of Washington, 2019
+
+CERTIFICATIONS
+• Google Mobile Web Specialist
+• W3C Certified Frontend Developer

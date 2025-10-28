@@ -1,0 +1,42 @@
+James Garcia
+Email: james.garcia@email.com | Phone: +1-921-480-6848
+LinkedIn: linkedin.com/in/james-garcia
+
+PROFESSIONAL SUMMARY
+Accomplished devops engineer with 7+ years of hands-on experience in modern technologies.
+
+SKILLS
+Kubernetes, Bash, Jenkins, Azure, AWS, Linux, Terraform
+
+WORK EXPERIENCE
+
+Cloud Engineer at DataSystems Inc
+2021 - Present
+• Automated deployment processes and reduced deployment time by 50%
+• Implemented infrastructure as code using Terraform
+• Implemented CI/CD pipelines using Jenkins and Docker
+• Managed cloud infrastructure on Azure
+
+Infrastructure Engineer at SmartTech
+2019 - 2021
+• Monitored system performance and ensured 99.9% uptime
+• Implemented infrastructure as code using Terraform
+• Managed cloud infrastructure on AWS
+• Automated deployment processes and reduced deployment time by 50%
+
+Platform Engineer at DigitalWorks
+2017 - Present
+• Managed cloud infrastructure on Azure
+• Automated deployment processes and reduced deployment time by 50%
+• Implemented CI/CD pipelines using Jenkins and Docker
+• Implemented infrastructure as code using Terraform
+
+
+EDUCATION
+
+PhD in Computer Science
+University of Washington, 2016
+
+CERTIFICATIONS
+• AWS Certified DevOps Engineer
+• Kubernetes Administrator (CKA)

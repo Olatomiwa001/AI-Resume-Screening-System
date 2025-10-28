@@ -1,0 +1,49 @@
+William Taylor
+Email: william.taylor@email.com | Phone: +1-872-328-9674
+LinkedIn: linkedin.com/in/william-taylor
+
+PROFESSIONAL SUMMARY
+Results-driven frontend specialist with 9 years of experience in building scalable applications.
+
+SKILLS
+Material-UI, HTML, Webpack, Angular, TypeScript, React, Redux
+
+WORK EXPERIENCE
+
+Frontend Developer at WebDynamics
+2022 - Present
+• Developed responsive web applications using TypeScript
+• Collaborated with designers and backend engineers
+• Built reusable component libraries
+• Implemented pixel-perfect UI designs
+
+UI/UX Engineer at CodeCraft
+2019 - 2022
+• Developed responsive web applications using React
+• Collaborated with designers and backend engineers
+• Implemented pixel-perfect UI designs
+• Optimized frontend performance and accessibility
+
+Frontend Architect at SmartTech
+2017 - 2019
+• Implemented pixel-perfect UI designs
+• Collaborated with designers and backend engineers
+• Developed responsive web applications using Webpack
+• Built reusable component libraries
+
+React Developer at TechCorp
+2014 - Present
+• Collaborated with designers and backend engineers
+• Built reusable component libraries
+• Developed responsive web applications using Material-UI
+• Implemented pixel-perfect UI designs
+
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+Cornell University, 2012
+
+CERTIFICATIONS
+• W3C Certified Frontend Developer
+• Google Mobile Web Specialist

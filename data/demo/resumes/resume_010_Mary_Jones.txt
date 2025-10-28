@@ -1,0 +1,42 @@
+Mary Jones
+Email: mary.jones@email.com | Phone: +1-375-781-9667
+LinkedIn: linkedin.com/in/mary-jones
+
+PROFESSIONAL SUMMARY
+Accomplished devops engineer with 7+ years of hands-on experience in modern technologies.
+
+SKILLS
+Azure, Kubernetes, Ansible, Terraform, Jenkins, Docker, Linux, Bash, Python, AWS
+
+WORK EXPERIENCE
+
+Cloud Engineer at CodeCraft
+2021 - Present
+• Implemented CI/CD pipelines using Jenkins and Docker
+• Monitored system performance and ensured 99.9% uptime
+• Implemented infrastructure as code using Terraform
+• Automated deployment processes and reduced deployment time by 50%
+
+Cloud Engineer at InfoSystems
+2019 - 2021
+• Implemented infrastructure as code using Terraform
+• Automated deployment processes and reduced deployment time by 50%
+• Monitored system performance and ensured 99.9% uptime
+• Implemented CI/CD pipelines using Jenkins and Docker
+
+Site Reliability Engineer at TechCorp
+2015 - Present
+• Automated deployment processes and reduced deployment time by 50%
+• Managed cloud infrastructure on Azure
+• Implemented infrastructure as code using Terraform
+• Monitored system performance and ensured 99.9% uptime
+
+
+EDUCATION
+
+BS in Software Engineering
+Carnegie Mellon, 2018
+
+CERTIFICATIONS
+• Docker Certified Associate
+• AWS Certified DevOps Engineer

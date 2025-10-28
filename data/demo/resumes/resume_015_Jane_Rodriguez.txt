@@ -1,0 +1,49 @@
+Jane Rodriguez
+Email: jane.rodriguez@email.com | Phone: +1-737-551-7075
+LinkedIn: linkedin.com/in/jane-rodriguez
+
+PROFESSIONAL SUMMARY
+Accomplished frontend engineer with 12+ years of hands-on experience in modern technologies.
+
+SKILLS
+TypeScript, Webpack, CSS, HTML, Material-UI, Angular, Vue.js, React, JavaScript, Redux
+
+WORK EXPERIENCE
+
+UI/UX Engineer at DigitalWorks
+2021 - Present
+• Developed responsive web applications using React
+• Built reusable component libraries
+• Implemented pixel-perfect UI designs
+• Optimized frontend performance and accessibility
+
+UI/UX Engineer at InfoSystems
+2017 - 2021
+• Built reusable component libraries
+• Optimized frontend performance and accessibility
+• Collaborated with designers and backend engineers
+• Implemented pixel-perfect UI designs
+
+Frontend Developer at DigitalWorks
+2015 - 2017
+• Optimized frontend performance and accessibility
+• Built reusable component libraries
+• Developed responsive web applications using Webpack
+• Collaborated with designers and backend engineers
+
+UI/UX Engineer at InfoSystems
+2011 - Present
+• Implemented pixel-perfect UI designs
+• Developed responsive web applications using React
+• Collaborated with designers and backend engineers
+• Optimized frontend performance and accessibility
+
+
+EDUCATION
+
+PhD in Machine Learning
+University of Washington, 2010
+
+CERTIFICATIONS
+• W3C Certified Frontend Developer
+• Google Mobile Web Specialist

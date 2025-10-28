@@ -1,0 +1,28 @@
+Jane Rodriguez
+Email: jane.rodriguez@email.com | Phone: +1-808-660-5221
+LinkedIn: linkedin.com/in/jane-rodriguez
+
+PROFESSIONAL SUMMARY
+Experienced devops professional with 2+ years of expertise in developing robust software solutions.
+
+SKILLS
+AWS, Kubernetes, Bash, Ansible, Linux, Docker
+
+WORK EXPERIENCE
+
+DevOps Engineer at DataSystems Inc
+2021 - Present
+• Managed cloud infrastructure on GCP
+• Implemented infrastructure as code using Terraform
+• Automated deployment processes and reduced deployment time by 50%
+• Implemented CI/CD pipelines using Jenkins and Docker
+
+
+EDUCATION
+
+PhD in Computer Science
+University of Washington, 2020
+
+CERTIFICATIONS
+• AWS Certified DevOps Engineer
+• Docker Certified Associate

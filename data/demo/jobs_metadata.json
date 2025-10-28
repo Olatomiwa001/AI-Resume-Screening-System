@@ -1,0 +1,22 @@
+[
+  {
+    "filename": "job_1_software.txt",
+    "category": "software",
+    "experience_required": 5
+  },
+  {
+    "filename": "job_2_data_science.txt",
+    "category": "data_science",
+    "experience_required": 5
+  },
+  {
+    "filename": "job_3_frontend.txt",
+    "category": "frontend",
+    "experience_required": 3
+  },
+  {
+    "filename": "job_4_devops.txt",
+    "category": "devops",
+    "experience_required": 3
+  }
+]

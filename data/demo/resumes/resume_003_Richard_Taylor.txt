@@ -1,0 +1,35 @@
+Richard Taylor
+Email: richard.taylor@email.com | Phone: +1-656-722-2964
+LinkedIn: linkedin.com/in/richard-taylor
+
+PROFESSIONAL SUMMARY
+Results-driven frontend specialist with 3 years of experience in building scalable applications.
+
+SKILLS
+CSS, TypeScript, React, Webpack, JavaScript, Material-UI, Vue.js, Redux, Angular, HTML
+
+WORK EXPERIENCE
+
+Frontend Developer at CloudSolutions
+2023 - Present
+• Developed responsive web applications using React
+• Collaborated with designers and backend engineers
+• Built reusable component libraries
+• Optimized frontend performance and accessibility
+
+Frontend Architect at AI Innovations
+2020 - Present
+• Implemented pixel-perfect UI designs
+• Built reusable component libraries
+• Developed responsive web applications using Redux
+• Optimized frontend performance and accessibility
+
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+University of Washington, 2022
+
+CERTIFICATIONS
+• Google Mobile Web Specialist
+• W3C Certified Frontend Developer

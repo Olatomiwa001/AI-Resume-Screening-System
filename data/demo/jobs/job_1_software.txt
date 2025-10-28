@@ -1,0 +1,21 @@
+Senior Software Engineer
+
+We are seeking a talented Senior Software Engineer with 5+ years of experience 
+to join our growing team.
+
+Requirements:
+- 5+ years of professional software development experience
+- Strong proficiency in Python, Java, or similar languages
+- Experience with modern web frameworks (Django, Flask, Spring)
+- Knowledge of SQL and NoSQL databases
+- Experience with cloud platforms (AWS, Azure, or GCP)
+- Strong understanding of software design patterns and best practices
+- Bachelor's degree in Computer Science or related field
+
+Nice to have:
+- Experience with Docker and Kubernetes
+- Knowledge of microservices architecture
+- Contributions to open-source projects
+- Master's degree in Computer Science
+
+Key Skills: Python, Java, React, Node.js, AWS, Docker, SQL, REST APIs

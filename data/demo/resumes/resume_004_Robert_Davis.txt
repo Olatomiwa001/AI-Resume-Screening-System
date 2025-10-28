@@ -1,0 +1,35 @@
+Robert Davis
+Email: robert.davis@email.com | Phone: +1-913-157-5209
+LinkedIn: linkedin.com/in/robert-davis
+
+PROFESSIONAL SUMMARY
+Results-driven frontend specialist with 6 years of experience in building scalable applications.
+
+SKILLS
+Webpack, React, Material-UI, JavaScript, Redux, Angular
+
+WORK EXPERIENCE
+
+UI/UX Engineer at InfoSystems
+2023 - Present
+• Built reusable component libraries
+• Implemented pixel-perfect UI designs
+• Developed responsive web applications using JavaScript
+• Collaborated with designers and backend engineers
+
+React Developer at SmartTech
+2019 - Present
+• Optimized frontend performance and accessibility
+• Developed responsive web applications using Material-UI
+• Collaborated with designers and backend engineers
+• Built reusable component libraries
+
+
+EDUCATION
+
+BS in Information Technology
+UC Berkeley, 2015
+
+CERTIFICATIONS
+• W3C Certified Frontend Developer
+• Google Mobile Web Specialist

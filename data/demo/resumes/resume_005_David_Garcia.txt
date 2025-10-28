@@ -1,0 +1,35 @@
+David Garcia
+Email: david.garcia@email.com | Phone: +1-286-491-1727
+LinkedIn: linkedin.com/in/david-garcia
+
+PROFESSIONAL SUMMARY
+Accomplished frontend engineer with 8+ years of hands-on experience in modern technologies.
+
+SKILLS
+Webpack, CSS, Angular, Redux, Vue.js, HTML
+
+WORK EXPERIENCE
+
+Frontend Architect at AI Innovations
+2021 - Present
+• Implemented pixel-perfect UI designs
+• Collaborated with designers and backend engineers
+• Developed responsive web applications using Redux
+• Optimized frontend performance and accessibility
+
+React Developer at DataSystems Inc
+2017 - Present
+• Implemented pixel-perfect UI designs
+• Developed responsive web applications using Webpack
+• Collaborated with designers and backend engineers
+• Built reusable component libraries
+
+
+EDUCATION
+
+PhD in Artificial Intelligence
+Stanford University, 2015
+
+CERTIFICATIONS
+• Google Mobile Web Specialist
+• W3C Certified Frontend Developer

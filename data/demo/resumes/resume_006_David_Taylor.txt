@@ -1,0 +1,35 @@
+David Taylor
+Email: david.taylor@email.com | Phone: +1-826-280-5732
+LinkedIn: linkedin.com/in/david-taylor
+
+PROFESSIONAL SUMMARY
+Accomplished data_science engineer with 8+ years of hands-on experience in modern technologies.
+
+SKILLS
+Machine Learning, PyTorch, R, scikit-learn, Deep Learning, NumPy, Spark, Pandas
+
+WORK EXPERIENCE
+
+Data Scientist at CodeCraft
+2021 - Present
+• Deployed models to production with 95% accuracy
+• Collaborated with engineering teams to integrate ML solutions
+• Built machine learning models using Machine Learning
+• Analyzed large datasets to derive actionable insights
+
+Machine Learning Engineer at SmartTech
+2017 - Present
+• Deployed models to production with 95% accuracy
+• Built machine learning models using NumPy
+• Created data visualizations and dashboards for stakeholders
+• Analyzed large datasets to derive actionable insights
+
+
+EDUCATION
+
+Master of Engineering
+MIT, 2017
+
+CERTIFICATIONS
+• AWS Machine Learning Specialty
+• Google Professional Data Engineer

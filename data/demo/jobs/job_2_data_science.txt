@@ -1,0 +1,21 @@
+Data Scientist
+
+Looking for an experienced Data Scientist with 5+ years to drive 
+data-driven decision making.
+
+Requirements:
+- 5+ years of experience in data science or machine learning
+- Strong programming skills in Python and R
+- Experience with machine learning frameworks (TensorFlow, PyTorch, scikit-learn)
+- Proficiency in SQL and data manipulation (Pandas, NumPy)
+- Strong statistical analysis and modeling skills
+- Experience deploying ML models to production
+- Master's degree in Computer Science, Statistics, or related field
+
+Nice to have:
+- PhD in relevant field
+- Experience with big data tools (Spark, Hadoop)
+- Knowledge of deep learning and NLP
+- Publications in ML conferences
+
+Key Skills: Python, R, TensorFlow, Machine Learning, Deep Learning, SQL, Statistics
