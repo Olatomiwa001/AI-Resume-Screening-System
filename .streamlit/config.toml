@@ -1,0 +1,26 @@
+[server]
+maxUploadSize = 10
+
+[browser]
+gatherUsageStats = false
+```
+
+4. **Save the file** (Ctrl+S)
+
+---
+
+### **STEP 6: Check Your File Structure**
+
+Your project should now look like this:
+```
+AI_Resume_Screener/
+├── .streamlit/
+│   └── config.toml          ← New file
+├── .python-version          ← New file
+├── packages.txt             ← New file
+├── requirements.txt         ← Modified
+├── streamlit_app.py
+├── src/
+├── data/
+├── tests/
+└── ... (other files)
