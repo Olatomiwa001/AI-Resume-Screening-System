@@ -7,11 +7,27 @@ Attempts to preserve section structure when possible.
 
 import logging
 from pathlib import Path
-from typing import Optional
+from typing import Optional, Dict
 import re
 
-from pdfminer.high_level import extract_text as pdf_extract
-from pdfminer.layout import LAParams
+# Try different pdfminer imports for compatibility
+try:
+    from pdfminer.high_level import extract_text as pdf_extract
+    from pdfminer.layout import LAParams
+    USE_PDFMINER = True
+except ImportError:
+    # Fallback if pdfminer.high_level not available
+    try:
+        from pdfminer.pdfpage import PDFPage
+        from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
+        from pdfminer.converter import TextConverter
+        from pdfminer.layout import LAParams
+        from io import StringIO
+        USE_PDFMINER = True
+    except ImportError:
+        USE_PDFMINER = False
+        print("Warning: pdfminer not available")
+
 import docx2txt
 
 logger = logging.getLogger(__name__)
@@ -38,15 +54,32 @@ def extract_text_from_pdf(file_path: str) -> str:
         
         logger.info(f"Extracting text from PDF: {file_path}")
         
-        # Use LAParams for better layout analysis
-        laparams = LAParams(
-            line_margin=0.5,
-            word_margin=0.1,
-            char_margin=2.0,
-            detect_vertical=True
-        )
+        if not USE_PDFMINER:
+            raise ImportError("pdfminer.six not available")
         
-        text = pdf_extract(file_path, laparams=laparams)
+        # Try using high_level extract_text first
+        try:
+            laparams = LAParams(
+                line_margin=0.5,
+                word_margin=0.1,
+                char_margin=2.0,
+                detect_vertical=True
+            )
+            text = pdf_extract(file_path, laparams=laparams)
+        except (NameError, TypeError):
+            # Fallback to manual extraction
+            output = StringIO()
+            manager = PDFResourceManager()
+            converter = TextConverter(manager, output, laparams=LAParams())
+            interpreter = PDFPageInterpreter(manager, converter)
+            
+            with open(file_path, 'rb') as f:
+                for page in PDFPage.get_pages(f, check_extractable=True):
+                    interpreter.process_page(page)
+            
+            converter.close()
+            text = output.getvalue()
+            output.close()
         
         if not text or len(text.strip()) == 0:
             logger.warning(f"No text extracted from PDF: {file_path}")
@@ -128,7 +161,7 @@ def _clean_extracted_text(text: str) -> str:
     return text.strip()
 
 
-def identify_sections(text: str) -> dict:
+def identify_sections(text: str) -> Dict[str, str]:
     """
     Attempt to identify common resume sections.
     
@@ -138,7 +171,7 @@ def identify_sections(text: str) -> dict:
     Returns:
         Dictionary mapping section names to content
     """
-    sections = {}
+    sections: Dict[str, str] = {}
     
     # Common section headers
     section_patterns = {
@@ -153,7 +186,7 @@ def identify_sections(text: str) -> dict:
     
     lines = text.split('\n')
     current_section = 'header'
-    sections[current_section] = []
+    section_lines = {current_section: []}
     
     for line in lines:
         # Check if line is a section header
@@ -161,21 +194,21 @@ def identify_sections(text: str) -> dict:
         for section_name, pattern in section_patterns.items():
             if re.match(pattern, line.strip()) and len(line.strip()) < 50:
                 current_section = section_name
-                sections[current_section] = []
+                section_lines[current_section] = []
                 is_section_header = True
                 break
         
         if not is_section_header and line.strip():
-            sections[current_section].append(line)
+            section_lines[current_section].append(line)
     
     # Join lines in each section
-    for section in sections:
-        sections[section] = '\n'.join(sections[section])
+    for section, lines_list in section_lines.items():
+        sections[section] = '\n'.join(lines_list)
     
     return sections
 
 
-def extract_contact_info(text: str) -> dict:
+def extract_contact_info(text: str) -> Dict[str, str]:
     """
     Extract basic contact information from resume text.
     
@@ -185,7 +218,7 @@ def extract_contact_info(text: str) -> dict:
     Returns:
         Dictionary with extracted contact info
     """
-    contact_info = {}
+    contact_info: Dict[str, str] = {}
     
     # Email pattern
     email_pattern = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
