@@ -10,32 +10,27 @@ from pathlib import Path
 from typing import Optional, Dict
 import re
 
-# Try different pdfminer imports for compatibility
+# Use PyPDF2 for better Streamlit Cloud compatibility
 try:
-    from pdfminer.high_level import extract_text as pdf_extract
-    from pdfminer.layout import LAParams
-    USE_PDFMINER = True
+    import PyPDF2
+    HAS_PDF = True
 except ImportError:
-    # Fallback if pdfminer.high_level not available
-    try:
-        from pdfminer.pdfpage import PDFPage
-        from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
-        from pdfminer.converter import TextConverter
-        from pdfminer.layout import LAParams
-        from io import StringIO
-        USE_PDFMINER = True
-    except ImportError:
-        USE_PDFMINER = False
-        print("Warning: pdfminer not available")
+    HAS_PDF = False
+    print("Warning: PyPDF2 not available")
 
-import docx2txt
+try:
+    from docx import Document
+    HAS_DOCX = True
+except ImportError:
+    HAS_DOCX = False
+    print("Warning: python-docx not available")
 
 logger = logging.getLogger(__name__)
 
 
 def extract_text_from_pdf(file_path: str) -> str:
     """
-    Extract text from a PDF file.
+    Extract text from a PDF file using PyPDF2.
     
     Args:
         file_path: Path to PDF file
@@ -52,34 +47,16 @@ def extract_text_from_pdf(file_path: str) -> str:
         if not path.exists():
             raise FileNotFoundError(f"PDF file not found: {file_path}")
         
+        if not HAS_PDF:
+            raise ImportError("PyPDF2 not installed")
+        
         logger.info(f"Extracting text from PDF: {file_path}")
         
-        if not USE_PDFMINER:
-            raise ImportError("pdfminer.six not available")
-        
-        # Try using high_level extract_text first
-        try:
-            laparams = LAParams(
-                line_margin=0.5,
-                word_margin=0.1,
-                char_margin=2.0,
-                detect_vertical=True
-            )
-            text = pdf_extract(file_path, laparams=laparams)
-        except (NameError, TypeError):
-            # Fallback to manual extraction
-            output = StringIO()
-            manager = PDFResourceManager()
-            converter = TextConverter(manager, output, laparams=LAParams())
-            interpreter = PDFPageInterpreter(manager, converter)
-            
-            with open(file_path, 'rb') as f:
-                for page in PDFPage.get_pages(f, check_extractable=True):
-                    interpreter.process_page(page)
-            
-            converter.close()
-            text = output.getvalue()
-            output.close()
+        text = ""
+        with open(file_path, 'rb') as f:
+            pdf_reader = PyPDF2.PdfReader(f)
+            for page in pdf_reader.pages:
+                text += page.extract_text() + "\n"
         
         if not text or len(text.strip()) == 0:
             logger.warning(f"No text extracted from PDF: {file_path}")
@@ -115,10 +92,14 @@ def extract_text_from_docx(file_path: str) -> str:
         if not path.exists():
             raise FileNotFoundError(f"DOCX file not found: {file_path}")
         
+        if not HAS_DOCX:
+            raise ImportError("python-docx not installed")
+        
         logger.info(f"Extracting text from DOCX: {file_path}")
         
-        # Extract text using docx2txt (preserves more structure than python-docx)
-        text = docx2txt.process(file_path)
+        # Extract text using python-docx
+        doc = Document(file_path)
+        text = "\n".join([paragraph.text for paragraph in doc.paragraphs])
         
         if not text or len(text.strip()) == 0:
             logger.warning(f"No text extracted from DOCX: {file_path}")
